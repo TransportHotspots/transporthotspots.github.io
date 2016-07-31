@@ -1,3 +1,20 @@
 .text-info.testClass {
   color: white;
 }
+
+.fire-explanation {
+  float: right;
+  position: relative;
+  left: -50%;
+  text-align: left;
+  display: block;
+}
+
+.fire-explanation ul {
+  position: relative;
+  left: 50%;
+}
+
+.fire-explanation li {
+  position: relative;
+}
